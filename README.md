@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hey, there! 👋 I'm Mahdi Abbasian</a>!</h1>
+<h3>Mid Level Android Developer </h3>
 
-<!--
-**MahdiAbbasian/MahdiAbbasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: MahdiAbbasian](https://img.shields.io/badge/-CONNECT_WITH_ME-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mahdi-abbasian/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &ensp;I’m currently working on native ❤️ projects
+- 🤝 &ensp;I’m looking forward for contribue to kotlin projects 
+- ✉️  &ensp;You can drop me an email at mam-1371@outlook.com with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
+- 📫 &ensp;How to reach me: [**Email**](mailto:mam-1371@outlook.com)
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiAbbasian&show_icons=true&theme=tokyonight)](https://github.com/MahdiAbbasian/)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAbbasian&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- <img alt="github contribution snake animation" src="https://github.com/SarahGhorbani/blob/output/github-contribution-grid-snake.svg"> -->
