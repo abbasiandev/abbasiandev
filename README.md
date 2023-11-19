@@ -12,7 +12,9 @@
 <br/>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiAbbasian&show_icons=true&theme=tokyonight)](https://github.com/MahdiAbbasian/)&ensp; -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAbbasian&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAbbasian&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--> 
 
 
 <!-- <img alt="github contribution snake animation" src="https://github.com/SarahGhorbani/blob/output/github-contribution-grid-snake.svg"> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MahdiAbbasian)](https://github.com/ryo-ma/github-profile-trophy)
