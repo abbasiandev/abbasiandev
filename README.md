@@ -17,4 +17,4 @@
 
 <!-- <img alt="github contribution snake animation" src="https://github.com/SarahGhorbani/blob/output/github-contribution-grid-snake.svg"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MahdiAbbasian)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=MahdiAbbasian)](https://github.com/ryo-ma/github-profile-trophy) -->
