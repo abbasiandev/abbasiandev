@@ -6,7 +6,7 @@
 
 - 🔭 &ensp;I’m currently working on native ❤️ projects
 - 🤝 &ensp;I’m looking forward for contribue to kotlin projects 
-- ✉️  &ensp;You can drop me an email at mam-1371@outlook.com with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
+- ✉️  &ensp;You can drop me an email at info@abbasian.dev with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
 - 📫 &ensp;How to reach me: [**Email**](mailto:info@abbasian.dev)
 
 <br/>
