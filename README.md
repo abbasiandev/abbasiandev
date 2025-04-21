@@ -1,5 +1,4 @@
 <h1> Hey, there! 👋 I'm Mahdi </h1>
-<h3> Senior Mobile Developer </h3>
 
 [![Linkedin: MahdiAbbasian](https://img.shields.io/badge/-CONNECT_WITH_ME-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mahdi-abbasian/)
 
