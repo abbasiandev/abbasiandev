@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/ktor/ktor-original.svg" title="Ktor" alt="Ktor" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
