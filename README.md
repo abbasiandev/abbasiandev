@@ -5,8 +5,7 @@
 
 - 🔭 &ensp;I’m currently working on multiplatform ❤️ projects
 - 🤝 &ensp;I’m looking forward for contribue to kotlin and flutter projects 
-- ✉️  &ensp;You can drop me an email at info@abbasian.dev with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
-- 📫 &ensp;How to reach me: [**Email**](mailto:info@abbasian.dev)
+- ✉️  &ensp;You can drop me an email at [**info@abbasian.dev**](mailto:info@abbasian.dev) with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
 
 <br/>
 
