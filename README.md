@@ -59,9 +59,9 @@ Mobile developer with 6+ years of experience building high-performance native an
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/master/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/master/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abbasiandev/abbasiandev/master/output/pacman-contribution-graph.svg">
 </picture>
 
 ### 📫 Let's Connect
