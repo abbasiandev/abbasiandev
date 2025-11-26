@@ -58,6 +58,16 @@ Mobile developer with 6+ years of experience building high-performance native an
   <img src="https://github.com/devicons/devicon/raw/master/icons/homebrew/homebrew-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">
+</picture>
+
 ### 📫 Let's Connect
 
 Feel free to reach out at **info@abbasian.dev** — I'm always open to discussing mobile development, multiplatform architecture, or potential collaborations!
+
+### GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abbasiandev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
