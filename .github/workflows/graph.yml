@@ -33,21 +33,9 @@ jobs:
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Update README
-        run: |
-          # Check if the picture block already exists
-          if ! grep -q "pacman-contribution-graph" README.md; then
-            echo "" >> README.md
-            echo '<picture>' >> README.md
-            echo '  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph-dark.svg">' >> README.md
-            echo '  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">' >> README.md
-            echo '  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abbasiandev/abbasiandev/output/pacman-contribution-graph.svg">' >> README.md
-            echo '</picture>' >> README.md
-          fi
-
-      - name: Commit and push changes
+      - name: Commit and push graph files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
+          git add output/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Pacman contribution graph [skip ci]" && git push)
