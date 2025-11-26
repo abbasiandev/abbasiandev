@@ -25,19 +25,24 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate contribution graph with borders
-        uses: Platane/snk@v3
+      - name: Generate Pacman with ghosts
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abbasiandev
-          outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg
+
+      - name: Move files to output directory
+        run: |
+          mkdir -p output
+          mv dist/*.svg output/ 2>/dev/null || true
 
       - name: Add borders to SVG files
         run: |
-          # Add stroke (border) to all rect elements in the SVG for bordered square style
-          sed -i 's/<rect /<rect stroke="#e1e4e8" stroke-width="2" /g' output/pacman-contribution-graph.svg
-          sed -i 's/<rect /<rect stroke="#161b22" stroke-width="2" /g' output/pacman-contribution-graph-dark.svg
+          if [ -f output/pacman-contribution-graph.svg ]; then
+            sed -i 's/<rect /<rect stroke="#e1e4e8" stroke-width="2" /g' output/pacman-contribution-graph.svg
+          fi
+          if [ -f output/pacman-contribution-graph-dark.svg ]; then
+            sed -i 's/<rect /<rect stroke="#161b22" stroke-width="2" /g' output/pacman-contribution-graph-dark.svg
+          fi
 
       - name: Commit and push graph files
         run: |
