@@ -50,9 +50,11 @@ Mobile developer with 6+ years of experience building high-performance native an
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/ktor/ktor-original.svg" title="Ktor" alt="Ktor" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/ohmyzsh/ohmyzsh-original.svg" title="Zsh" alt="Zsh" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/homebrew/homebrew-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/>
