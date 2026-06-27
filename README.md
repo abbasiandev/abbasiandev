@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Mahdi Hossein Abbasian Mohammadi</h1>
 
 <p align="center">
-  <strong>Senior Mobile Developer | Multiplatform Specialist</strong><br>
+  <strong>Senior Mobile Engineer | Multiplatform Specialist</strong><br>
   Kotlin • Flutter • Swift • KMM • React Native
 </p>
 
