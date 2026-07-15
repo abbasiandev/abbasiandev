@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Mahdi Hossein Abbasian Mohammadi</h1>
 
 <p align="center">
-  <strong>Senior Mobile Engineer | Multiplatform Specialist</strong><br>
-  Kotlin • Flutter • Swift • KMM • React Native
+  <strong>Senior Software Engineer | Android & Backend Systems</strong><br>
+  Kotlin • FastAPI • Ktor • Flutter • Swift • KMM
 </p>
 
 <p align="center">
@@ -14,11 +14,12 @@
 
 ### About Me
 
-Mobile developer with 6+ years of experience building high-performance native and cross-platform applications, specializing in multiplatform development with Kotlin Multiplatform and Flutter.
+Software engineer with 7+ years shipping production systems across mobile and backend — from Kotlin, Flutter, and KMM apps to async FastAPI and Ktor services running in production.
 
+- backend architecture end-to-end: designed WebSocket infrastructure delivering real-time updates across 100+ network nodes, and cut API response latency ~35% through async optimization
 - Built apps with **500K+ downloads** and published libraries on Maven Central
 - Expert in **Android SDK/NDK**, **Jetpack Compose**, **Flutter**, **React Native**, and **SwiftUI**
-- Open to collaborating on Kotlin and Flutter open-source projects
+- Open to collaborating on backend and multiplatform open-source projects
 
   <table>
   <tr valign="middle">
@@ -68,7 +69,7 @@ Mobile developer with 6+ years of experience building high-performance native an
 
 ### 📫 Let's Connect
 
-Feel free to reach out at **info@abbasian.dev** — I'm always open to discussing mobile development, multiplatform architecture, or potential collaborations!
+Feel free to reach out at **info@abbasian.dev** — I'm always open to discussing backend architecture, mobile development, or potential collaborations!
 
 <!-- ### GitHub Activity Graph -->
 
